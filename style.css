@@ -1,0 +1,121 @@
+body{
+ background:#ffd2d2;
+    margin: 0px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(140, 121, 121);
+   
+    
+
+}
+h1{
+    font-family: 'Arizonia', cursive;
+    font-size: 5rem;
+    color: rgb(107, 87, 87);
+    
+    
+    
+}
+h2{
+    color: rgb(107, 87, 87);
+    font-size: 30px;
+}
+h3{
+    color: rgb(107, 87, 87);
+    
+}
+h2.p{
+    position: relative;
+    bottom: 40px;
+    
+}
+
+.mountain{
+    width: 30%;
+    margin-bottom: 30px;
+    
+}
+.cloud{
+    height: 8em;
+  position: absolute;
+  left: 400px;
+  top: 50px;
+}
+.cloud2{
+    height: 8em;
+    position: absolute;
+    right: 300px;
+    top: 300px;
+}
+.waheed{
+    width: 15%;
+}
+.doc{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+width: 50%;
+text-align: left;
+margin: 100px auto 100px auto;
+line-height: 2;
+}
+.black{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+.gyph{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+
+}
+.bottom-container img{
+    width: 3%;
+    margin: 50px 10px 0px 10px;
+}
+.bottom-container{
+    background-color: rgb(140, 116, 116);
+    margin: 20px auto 0px auto;
+    overflow: hidden;
+}
+.bottom-container img{
+    border-radius: 100px;
+}
+
+.bottom-container img:hover{
+    background-color: darkgray;
+    border-radius: 100px;
+}
+
+.btn {
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    color: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 17px;
+    border-color-hover: blue;
+    border-style-hover: solid;
+    border-width-hover: 15;
+    background-color: #B19C97;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #95A0B1;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    text-decoration: none;
+ }
+ hr{
+     display: none;
+ }
